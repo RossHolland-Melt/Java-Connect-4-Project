@@ -17,7 +17,7 @@ public class SU21589828 {
 
     // Board size
 
-    static int gridWidth = 5;
+    static int gridWidth = 6;
     static int gridHeight = 7;
     // The 6-by-7 grid that represents the gameboard, it is initially empty
     public static int[][] grid = new int[gridWidth][gridHeight];
