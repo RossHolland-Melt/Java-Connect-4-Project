@@ -1,0 +1,465 @@
+28c28
+< 5 R * * * * * *  
+---
+> 5 * * * * * * *  
+47c47
+< 5 R Y * * * * *  
+---
+> 5 * * * * * * *  
+65,163d64
+< 4 R * * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 1 wins!
+< Do you want to play again? 
+<  1. Yes 
+<  2. No
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+165,184c66
+< 5 Y * * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 R * * * * * *  
+< 5 Y * * * * * *  
+---
+> 5 * * * * * * *  
+202,290c84,85
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 R * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+---
+> 4 * * * * * * *  
+> 5 * * * * * * *  
+292,303d86
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 R * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1 wins!
+< Do you want to play again? 
+<  1. Yes 
+<  2. No
+321c104
+< 5 R * * * * * *  
+---
+> 5 * * * * * * *  
+340,416c123
+< 5 R Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 R * * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+---
+> 5 * * * * * * *  
+432,454d138
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 R Y * * * * *  
+< 
+< Player 1 wins!
+< Do you want to play again? 
+<  1. Yes 
+<  2. No
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+458,477c142
+< 5 Y * * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 * * * * * * *  
+< 4 R * * * * * *  
+< 5 Y * * * * * *  
+---
+> 5 * * * * * * *  
+495,572c160,161
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R * * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 * * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1's turn (You are Red):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 R * * * * * *  
+< 3 R * * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 2's turn (You are Yellow):
+< Choose your move: 
+<  1. Play Normal 
+<  2. Play Bomb (2 left) 
+<  3. Play Teleportation (2 left) 
+<  4. Play Colour Changer (2 left)
+<  5. Display Gameboard 
+<  6. Load Test File 
+<  0. Exit
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 * * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+---
+> 4 * * * * * * *  
+> 5 * * * * * * *  
+583,596d171
+< Choose a column to play in:
+< 
+<   0 1 2 3 4 5 6  
+< 0 * * * * * * *  
+< 1 R * * * * * *  
+< 2 R * * * * * *  
+< 3 R Y * * * * *  
+< 4 R Y * * * * *  
+< 5 Y Y * * * * *  
+< 
+< Player 1 wins!
+< Do you want to play again? 
+<  1. Yes 
+<  2. No

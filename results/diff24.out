@@ -1,0 +1,48 @@
+28c28
+< 5 * * * * * R *  
+---
+> 5 * * * * * * *  
+47c47
+< 5 Y * * * * R *  
+---
+> 5 * * * * * * *  
+66c66
+< 5 Y * * * R R *  
+---
+> 5 * * * * * * *  
+85c85
+< 5 Y Y * * R R *  
+---
+> 5 * * * * * * *  
+104c104
+< 5 Y Y * R R R *  
+---
+> 5 * * * * * * *  
+122,123c122,123
+< 4 Y * * * * * *  
+< 5 Y Y * R R R *  
+---
+> 4 * * * * * * *  
+> 5 * * * * * * *  
+141,142c141,142
+< 4 Y * * * * * *  
+< 5 Y Y R R R R *  
+---
+> 4 * * * * * * *  
+> 5 * * * * * * *  
+144,147c144,153
+< Player 1 wins!
+< Do you want to play again? 
+<  1. Yes 
+<  2. No
+---
+> Player 2's turn (You are Yellow):
+> Choose your move: 
+>  1. Play Normal 
+>  2. Play Bomb (2 left) 
+>  3. Play Teleportation (2 left) 
+>  4. Play Colour Changer (2 left)
+>  5. Display Gameboard 
+>  6. Load Test File 
+>  0. Exit
+> Choose a column to play in:
